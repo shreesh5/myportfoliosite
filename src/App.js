@@ -27,8 +27,8 @@ class App extends React.Component {
              <Drawer title="Title">
                  <Navigation>
                      <Link to="/myportfoliosite/aboutme/">About Me</Link>
-                     <Link to="/myportfoliosite/projects">Projects</Link>
-                     <Link to="/myportfoliosite/contact">Contact</Link>
+                     <Link to="/myportfoliosite/projects/">Projects</Link>
+                     <Link to="/myportfoliosite/contact/">Contact</Link>
                  </Navigation>
              </Drawer>
              <Content>
