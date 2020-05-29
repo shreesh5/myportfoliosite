@@ -19,9 +19,9 @@ class App extends React.Component {
          <Layout>
              <Header className="header-color" title="My Portfolio" scroll>
                  <Navigation>
-                     <Link to="/aboutme/">About Me</Link>
-                     <Link to="/projects/">Projects</Link>
-                     <Link to="/contact/">Contact</Link>
+                     <Link to="/aboutme">About Me</Link>
+                     <Link to="/projects">Projects</Link>
+                     <Link to="/contact">Contact</Link>
                  </Navigation>
              </Header>
              <Drawer title="Title">
